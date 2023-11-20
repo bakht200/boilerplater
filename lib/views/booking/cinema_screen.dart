@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:one_context/one_context.dart';
-import 'package:tentwenty_movie_project/constant/app_assets.dart';
-import 'package:tentwenty_movie_project/constant/app_theme.dart';
-import 'package:tentwenty_movie_project/router/router.dart';
+import 'package:boilerplater_movie_project/constant/app_assets.dart';
+import 'package:boilerplater_movie_project/constant/app_theme.dart';
+import 'package:boilerplater_movie_project/router/router.dart';
 
 class CinemaScreen extends StatefulWidget {
   const CinemaScreen({Key? key}) : super(key: key);

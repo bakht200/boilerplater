@@ -1,4 +1,4 @@
-# tentwenty_movie_project
+# boilerplater_movie_project
 
 A new Flutter project.
 

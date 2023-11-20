@@ -2,8 +2,8 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:persistent_bottom_nav_bar_v2/persistent-tab-view.dart';
-import 'package:tentwenty_movie_project/constant/app_theme.dart';
-import 'package:tentwenty_movie_project/views/dashboard/home_screen.dart';
+import 'package:boilerplater_movie_project/constant/app_theme.dart';
+import 'package:boilerplater_movie_project/views/dashboard/home_screen.dart';
 
 class NavigationBarScreen extends StatefulWidget {
   final int index;

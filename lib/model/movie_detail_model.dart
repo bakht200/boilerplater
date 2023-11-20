@@ -1,5 +1,5 @@
-import 'package:tentwenty_movie_project/model/cast_list.dart';
-import 'package:tentwenty_movie_project/model/movie_image_model.dart';
+import 'package:boilerplater_movie_project/model/cast_list.dart';
+import 'package:boilerplater_movie_project/model/movie_image_model.dart';
 
 class MovieDetail {
   final String? id;

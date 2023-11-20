@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:one_context/one_context.dart';
-import 'package:tentwenty_movie_project/constant/app_assets.dart';
-import 'package:tentwenty_movie_project/constant/app_theme.dart';
+import 'package:boilerplater_movie_project/constant/app_assets.dart';
+import 'package:boilerplater_movie_project/constant/app_theme.dart';
 
 class BookSeatScreen extends StatefulWidget {
   const BookSeatScreen({Key? key}) : super(key: key);

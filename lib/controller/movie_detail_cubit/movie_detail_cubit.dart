@@ -1,11 +1,11 @@
 import 'package:bloc/bloc.dart';
 import 'package:dio/dio.dart';
 import 'package:equatable/equatable.dart';
-import 'package:tentwenty_movie_project/constant/api_manager.dart';
-import 'package:tentwenty_movie_project/constant/config.dart';
-import 'package:tentwenty_movie_project/model/cast_list.dart';
-import 'package:tentwenty_movie_project/model/movie_detail_model.dart';
-import 'package:tentwenty_movie_project/model/movie_image_model.dart';
+import 'package:boilerplater_movie_project/constant/api_manager.dart';
+import 'package:boilerplater_movie_project/constant/config.dart';
+import 'package:boilerplater_movie_project/model/cast_list.dart';
+import 'package:boilerplater_movie_project/model/movie_detail_model.dart';
+import 'package:boilerplater_movie_project/model/movie_image_model.dart';
 
 part 'movie_detail_state.dart';
 

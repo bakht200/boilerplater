@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:tentwenty_movie_project/constant/config.dart';
+import 'package:boilerplater_movie_project/constant/config.dart';
 
 class ApiManager {
   Dio dio = Dio();

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:tentwenty_movie_project/constant/app_assets.dart';
-import 'package:tentwenty_movie_project/constant/app_theme.dart';
-import 'package:tentwenty_movie_project/constant/config.dart';
+import 'package:boilerplater_movie_project/constant/app_assets.dart';
+import 'package:boilerplater_movie_project/constant/app_theme.dart';
+import 'package:boilerplater_movie_project/constant/config.dart';
 
-import 'package:tentwenty_movie_project/controller/movie_category_cubits/movie_category_cubit.dart';
-import 'package:tentwenty_movie_project/controller/movie_category_cubits/searchbar_cubit/search_bar_cubit.dart';
-import 'package:tentwenty_movie_project/controller/upcoming_movie_cubit/upcoming_movies_cubit.dart';
+import 'package:boilerplater_movie_project/controller/movie_category_cubits/movie_category_cubit.dart';
+import 'package:boilerplater_movie_project/controller/movie_category_cubits/searchbar_cubit/search_bar_cubit.dart';
+import 'package:boilerplater_movie_project/controller/upcoming_movie_cubit/upcoming_movies_cubit.dart';
 
 class MoviesCategoryScreen extends StatefulWidget {
   const MoviesCategoryScreen({Key? key}) : super(key: key);

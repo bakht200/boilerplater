@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:one_context/one_context.dart';
-import 'package:tentwenty_movie_project/arguments/video_player_arguments.dart';
-import 'package:tentwenty_movie_project/constant/app_theme.dart';
+import 'package:boilerplater_movie_project/arguments/video_player_arguments.dart';
+import 'package:boilerplater_movie_project/constant/app_theme.dart';
 import 'package:youtube_player_iframe/youtube_player_iframe.dart';
 
 class VideoPlayerScreen extends StatefulWidget {

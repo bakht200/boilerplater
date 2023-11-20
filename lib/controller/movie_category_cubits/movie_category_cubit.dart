@@ -4,9 +4,9 @@ import 'dart:io';
 import 'package:bloc/bloc.dart';
 import 'package:dio/dio.dart';
 import 'package:equatable/equatable.dart';
-import 'package:tentwenty_movie_project/constant/api_manager.dart';
-import 'package:tentwenty_movie_project/constant/config.dart';
-import 'package:tentwenty_movie_project/model/movie_category_model.dart';
+import 'package:boilerplater_movie_project/constant/api_manager.dart';
+import 'package:boilerplater_movie_project/constant/config.dart';
+import 'package:boilerplater_movie_project/model/movie_category_model.dart';
 
 part 'movie_category_state.dart';
 

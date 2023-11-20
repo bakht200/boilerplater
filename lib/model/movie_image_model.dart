@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:tentwenty_movie_project/model/screeshot_model.dart';
+import 'package:boilerplater_movie_project/model/screeshot_model.dart';
 
 class MovieImage extends Equatable {
   final List<Screenshot>? backdrops;

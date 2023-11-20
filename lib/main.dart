@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:one_context/one_context.dart';
-import 'package:tentwenty_movie_project/bloc_provider/bloc_provider.dart';
-import 'package:tentwenty_movie_project/router/router.dart';
+import 'package:boilerplater_movie_project/bloc_provider/bloc_provider.dart';
+import 'package:boilerplater_movie_project/router/router.dart';
 
 void main() {
   runApp(const MyApp());
