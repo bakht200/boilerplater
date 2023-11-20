@@ -40,9 +40,6 @@ dependencies:
   one_context: ^2.1.0
   page_transition: ^2.1.0
   dio: ^5.3.3
-  chewie: ^1.7.1
-  youtube_player_iframe: ^4.0.4
-  book_my_seat: ^1.0.1
   
 
 

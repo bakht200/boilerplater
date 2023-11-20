@@ -8,9 +8,6 @@ import 'package:boilerplater_movie_project/arguments/movie_detail_arguments.dart
 import 'package:boilerplater_movie_project/constant/app_theme.dart';
 import 'package:boilerplater_movie_project/controller/movie_detail_cubit/movie_detail_cubit.dart';
 import 'package:boilerplater_movie_project/model/movie_detail_model.dart';
-import 'package:boilerplater_movie_project/router/router.dart';
-
-import 'package:boilerplater_movie_project/views/video_player/video_player_screen.dart';
 
 class MovieDetailScreen extends StatefulWidget {
   const MovieDetailScreen({Key? key}) : super(key: key);
@@ -102,10 +99,7 @@ class _MovieDetailScreenState extends State<MovieDetailScreen> {
                                 height: 10.h,
                               ),
                               GestureDetector(
-                                onTap: () {
-                                  OneContext()
-                                      .pushNamed(AppRoutes.CINEMASCREEN);
-                                },
+                                onTap: () {},
                                 child: Container(
                                   width: 243.w,
                                   height: 50.h,
@@ -126,11 +120,7 @@ class _MovieDetailScreenState extends State<MovieDetailScreen> {
                                 height: 10.h,
                               ),
                               GestureDetector(
-                                onTap: () {
-                                  OneContext().push(MaterialPageRoute(
-                                      builder: (builder) => VideoPlayerScreen(
-                                          movieId: movieDetail.trailerId!)));
-                                },
+                                onTap: () {},
                                 child: Container(
                                   width: 243.w,
                                   height: 50.h,
